@@ -1,6 +1,8 @@
 # Creacion de Personajes
 
-Actividad de creación de personajes mediante uso de los patrones de diseño (Abstract Factory)
+Actividad de creación de personajes mediante uso de los patrones de diseño (Abstract Factory).
+
+Modelos de Programación I (Alejandro Paolo Daza Corredor)
 
 ## GRUPO:
 
