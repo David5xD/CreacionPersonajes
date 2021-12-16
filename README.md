@@ -12,4 +12,4 @@ Modelos de Programación I (Alejandro Paolo Daza Corredor)
 
 ## DIAGRAMA DE CLASES:
 
-![alt text](https://github.com/David5xD/CreacionPersonajes/blob/main/19f0d32d-024a-47fb-b80f-504199696056.jpg)
+![alt text](https://github.com/David5xD/CreacionPersonajes/blob/main/DiagramAOE2.png)
