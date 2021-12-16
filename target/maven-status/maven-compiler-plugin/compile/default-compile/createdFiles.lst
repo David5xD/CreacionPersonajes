@@ -1,0 +1,17 @@
+Factory\AOEFM.class
+Factory\Productos\ArmaOrco.class
+Factory\Productos\CascoHumano.class
+Factory\Productos\CascoElfo.class
+Main\App.class
+Factory\Productos\ArmaduraHumano.class
+Factory\Creadores\personajes.class
+Factory\Creadores\Elfo.class
+Factory\Creador.class
+Factory\Productos\ArmaElfo.class
+Factory\Productos\Implemento.class
+Factory\Productos\ArmaduraElfo.class
+Factory\Creadores\Orco.class
+Factory\Creadores\Humano.class
+Factory\Productos\ArmaHumano.class
+Factory\Productos\ArmaduraOrco.class
+Factory\Productos\CascoOrco.class
